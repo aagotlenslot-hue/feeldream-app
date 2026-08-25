@@ -1,5 +1,0 @@
-node_modules/
-.env
-data/db.json
-uploads/payment-proof/*
-!uploads/payment-proof/.gitkeep
